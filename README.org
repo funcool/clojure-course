@@ -1,0 +1,56 @@
+* Functional Programming in Clojure & ClojureScript
+** Introduction
+*** Lisp
+*** Clojure Rationale
+*** Philosophy / Core principles
+*** Platforms
+**** JVM
+**** JavaScript
+**** Others
+** Clojure
+*** Syntax
+*** The reader
+*** The REPL
+*** Special forms
+*** Data types
+**** Primitives
+***** String
+***** Numbers
+***** Regular expressions
+****  Collections
+***** List
+***** Map
+****** Sorted map
+***** Vector
+***** Set
+****** Sorted set
+**** Custom
+***** Types
+***** Records
+*** Functions
+*** Destructuring
+*** Core abstractions
+**** Sequences
+***** Reducers
+***** Transducers
+*** Polymorphism
+**** Protocols
+**** Multimethods
+*** Reference types
+**** Vars
+**** Atoms
+**** Refs
+**** Agents
+*** IO
+*** Mutability
+**** Transients
+**** Volatiles
+*** Concurrency
+**** CSP with core.async
+*** Macros
+*** Metadata
+*** Host interoperability
+*** Core libraries
+** ClojureScript
+*** Differences from Clojure
+*** Google Closure Compiler
